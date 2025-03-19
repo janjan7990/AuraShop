@@ -1,8 +1,8 @@
 const Colors = {
   // โหมดสว่าง
   light: {
-    text: '#fff', // สีตัวอักษร
-    background: '#161622', // สีพื้นหลัง
+    text: '#161622', // สีตัวอักษร
+    background: '#fff', // สีพื้นหลัง
   },
   // โหมดมืด
   dark: {
